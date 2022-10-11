@@ -1,6 +1,6 @@
 ## Hi there 👋 Welcome to Fit_Stats
 
-Fits_Stats is a home workout app that helps you stay fit.
+Fit-Stats is a home workout app that helps you stay fit.
 
 
 
